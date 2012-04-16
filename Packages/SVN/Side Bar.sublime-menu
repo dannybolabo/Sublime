@@ -1,0 +1,17 @@
+[
+	{ "caption": "-" },
+	{
+		"caption": "SVN",
+		"children":
+		[
+			{ "caption": "Checkout", "command": "svn_checkout", "args": {"paths": []} },
+			{ "caption": "Update", "command": "svn_update", "args": {"paths": []} },
+			{ "caption": "Status", "command": "svn_status", "args": {"paths": []} },
+			{ "caption": "Diff", "command": "svn_diff", "args": {"paths": []} },
+			{ "caption": "Commit", "command": "svn_commit", "args": {"paths": []} },
+			{ "caption": "-" },
+			{ "caption": "Other", "command": "svn_operations", "args": {"paths": []} }
+		]
+	},
+	{ "caption": "-" }
+]

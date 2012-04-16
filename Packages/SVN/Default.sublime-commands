@@ -1,0 +1,76 @@
+[
+    {
+        "caption": "SVN: Other…",
+        "command": "svn_operations"
+    },
+    {
+        "caption": "SVN: Commit…",
+        "command": "svn_wc_commit"
+    },
+    {
+        "caption": "SVN: Status",
+        "command": "svn_wc_status"
+    },
+    {
+        "caption": "SVN: Update",
+        "command": "svn_update"
+    },
+    {
+        "caption": "SVN: Diff",
+        "command": "svn_wc_diff"
+    },
+    {
+        "caption": "SVN: Diff (File)",
+        "command": "svn_file_diff"
+    },
+    {
+        "caption": "SVN: Log",
+        "command": "svn_wc_log"
+    },
+    {
+        "caption": "SVN: Log (File)",
+        "command": "svn_file_log"
+    },
+    {
+        "caption": "SVN: Upgrade",
+        "command": "svn_upgrade"
+    },
+    {
+        "caption": "SVN: Edit Last Command",
+        "command": "svn_rerun"
+    },
+    {
+        "caption": "SVN: Checkout",
+        "command": "svn_checkout"
+    },
+    {
+        "caption": "Preferences: SVN Settings",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/SVN/SVN.sublime-settings"}
+        },
+    {
+        "caption": "Preferences: SVN Key Bindings",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/SVN/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: SVN Key Bindings",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/SVN/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: SVN Key Bindings",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/SVN/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    }
+]

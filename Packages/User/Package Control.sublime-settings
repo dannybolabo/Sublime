@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": 1334566586,
+	"installed_packages":
+	[
+		"Clipboard History",
+		"HTML5",
+		"Inc-Dec-Value",
+		"jQuery",
+		"JsFormat",
+		"LoremIpsum",
+		"Package Control",
+		"Prefixr",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublime-HTMLPrettify",
+		"SublimeLinter",
+		"SublimeTODO",
+		"SVN"
+	]
+}

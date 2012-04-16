@@ -1,0 +1,15 @@
+2012-04-16 23:40:38
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/status.py", line 585, in run
+  File "./sublimesvn/status.py", line 312, in fetch
+  File "./sublimesvn/proc.py", line 386, in __init__
+  File "./sublimesvn/proc.py", line 99, in get_wc_root
+NotFoundError: Sublime Text 2 does not appear to be in an SVN working copy
+2012-04-16 23:42:12
+Traceback (most recent call last):
+  File "./sublimesvn/threads.py", line 18, in run_with_except_hook
+  File "./sublimesvn/status.py", line 614, in run
+  File "./sublimesvn/proc.py", line 386, in __init__
+  File "./sublimesvn/proc.py", line 99, in get_wc_root
+NotFoundError: danny-nimmo does not appear to be in an SVN working copy
